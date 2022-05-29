@@ -1,13 +1,19 @@
 import React from 'react';
 import Logo from '../images/logo.png';
+import {Navbarestilo} from './Estilonavbar.js';
 
 export default function Navbar(){
     return(
-    <div calssName="Navbar">
-        <a href= "#front"><button><img src={Logo}/>Soundwave</button></a>
-        <a href= "#segunda"><button>Discover</button></a>
-        <a href= "#tercera"><button>Join</button></a>
-    </div>
+    <Navbarestilo calssName="Navbar">
+        <div>
+        <button><a href ="#front"><img src={Logo}/>Soundwave</a></button>
+        </div>
+        
+        <div>
+        <button><a href= "#segunda">Discover</a></button>
+        <button><a href= "#tercera">Join</a></button>
+        </div>
+    </Navbarestilo>
     )
 
     }
