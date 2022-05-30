@@ -5,14 +5,17 @@ import {Navbarestilo} from './Estilonavbar.js';
 export default function Navbar(){
     return(
     <Navbarestilo calssName="Navbar">
+    <navbar>
         <div>
-        <button><a href ="#front"><img src={Logo}/>Soundwave</a></button>
+            <img src={Logo} alt='logo' id='logo'/>
+            <a id='text-logo' className='menu' href='#Front'>Soundwave</a>
         </div>
         
         <div>
         <button><a href= "#segunda">Discover</a></button>
         <button><a href= "#tercera">Join</a></button>
         </div>
+    </navbar>
     </Navbarestilo>
     )
 

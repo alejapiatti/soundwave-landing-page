@@ -1,22 +1,27 @@
 import React from 'react';
 import Footer from "./Footer.js";
-import Navbar from './Navbar.js';
+import {Terceraestilo} from './Estilostercera.js';
 
 export default function Tercera(){
     return(
+<Terceraestilo>   
+<header>     
     <div id="tercera">
-        <Navbar/>
-        <p>Join the fun</p>
+        <p>Join the fun.</p>
+    </div>
     <div class="email">
         <label for="name">Name</label>
-        <button1></button1>
+        <button></button>
          <label for="email">Email</label>
-         <button2></button2>
+         <button></button>
          <label for="psw">Password</label>
-         <button3></button3>
+         <button></button>
          <button> Join Now </button>
-    </div>     
-        <Footer/>
-    </div>
+    </div> 
+</header>
+    <Footer/>
+</Terceraestilo>        
+        
+
     )
     }

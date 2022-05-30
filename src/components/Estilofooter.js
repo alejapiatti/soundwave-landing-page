@@ -18,11 +18,11 @@ height: 5em;
 button {
     background: #202027;
     border: none;
+    
 
 a{
     text-decoration: none;
     color: white;
-    Font: Poppins;
     Font-size: 1.2 rem;
 }    
 
