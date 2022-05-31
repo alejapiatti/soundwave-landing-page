@@ -15,6 +15,7 @@ export default function Navbar(){
         <button><a href= "#segunda">Discover</a></button>
         <button><a href= "#tercera">Join</a></button>
         </div>
+        
     </navbar>
     </Navbarestilo>
     )
