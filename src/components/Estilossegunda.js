@@ -12,7 +12,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 89vh;
     text-family: Poppins, sans sherif;
 }   
 

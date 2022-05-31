@@ -8,7 +8,7 @@ export default function Navbar(){
     <navbar>
         <div>
             <img src={Logo} alt='logo' id='logo'/>
-            <a id='text-logo' className='menu' href='#Front'>Soundwave</a>
+            <button><a id='text-logo' href='#Front'>Soundwave</a></button>
         </div>
         
         <div>

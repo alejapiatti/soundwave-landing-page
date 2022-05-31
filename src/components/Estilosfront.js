@@ -9,7 +9,7 @@ export const Frontestilo= styled.div `
    
 }
 #imagen{
-    margin-top: 10.5em;
+    margin-top: 14em;
 }
 
 button{
@@ -31,12 +31,12 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 85vh;
+    height: 100vh;
 }   
 #body{
     margin-left: 13em;
     margin-top: 5em;
-    width: 20em;   
+    width: 17em;   
 }   
 
 h1{

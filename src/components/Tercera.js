@@ -7,16 +7,16 @@ export default function Tercera(){
 <Terceraestilo>   
 <header>     
     <div id="tercera">
-        <p>Join the fun.</p>
+        <p>Join the <span>fun</span>.</p>
     </div>
     <div class="email">
-        <label for="name">Name</label>
+        <label for="name">Name:</label>
         <button></button>
-         <label for="email">Email</label>
+         <label for="email">Email:</label>
          <button></button>
-         <label for="psw">Password</label>
+         <label for="psw">Password:</label>
          <button></button>
-         <button> Join Now </button>
+         <button><a href= "Segunda">Join Now</a></button>
     </div> 
 </header>
     <Footer/>

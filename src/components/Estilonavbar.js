@@ -2,11 +2,14 @@ import styled from 'styled-components';
 export const Navbarestilo= styled.div `
 
 navbar{
-width: 100uw;
+width: 220vh;
 display: flex;
 align-items: center;
 justify-content: space-evenly;
 height: 5em;
+position: fixed;
+top: 0;
+
 
 
 }
@@ -21,6 +24,7 @@ height: 5em;
     text-decoration: none;
     margin-left: 0.5em;
     
+
 }
 
 button {
