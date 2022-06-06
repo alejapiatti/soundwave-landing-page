@@ -7,7 +7,7 @@ export default function Tercera(){
 <Terceraestilo>   
 <header>     
     <div id="tercera">
-        <p>Join the <span>fun</span>.</p>
+        <p>Join the <span>fun</span></p>
     </div>
     <div class="email">
         <label for="name">Name:</label>

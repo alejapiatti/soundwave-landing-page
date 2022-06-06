@@ -6,6 +6,9 @@ body{
 }
 
 *{
-  font-family: "Poppins", sans-serif;
+  font-family: Poppins;
 }
 
+header{
+  height: 89vh;
+}

@@ -10,6 +10,7 @@ header{
  p{
      color: white;
      font-size: 50px;
+     font-weight: 700;
      
     
  }

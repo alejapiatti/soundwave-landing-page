@@ -12,8 +12,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 89vh;
-    text-family: Poppins, sans sherif;
+    height: 90vh;
+    
 }   
 
 #musica{
@@ -39,10 +39,7 @@ button{
     justify-content: space-between;
     width: 300px;
  
-    
-    
-    
-    
+  
 
 }
 

@@ -41,12 +41,12 @@ header{
 
 h1{
     color: white;
-    font-family: Poppins, sans-serif;
+   
 }
 
 p{
     color: white;
-    font-family: Poppins, sans sherif;
+   
 }
 
 
